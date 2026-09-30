@@ -1,0 +1,11 @@
+[project]
+name = "stat163-2026t1-week5-practice"
+version = "0.1.0"
+description = "STAT163 Week 5 practice — tidy data from two publishers"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.0",
+    "numpy",
+    "altair>=5",
+    "jupyterlab>=4.0",
+]
